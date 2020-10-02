@@ -4,6 +4,11 @@ body {
     background-size: cover;
     font-family: 'Roboto', sans-serif;
 }
+
+#error_msg {
+	color: #e4981d;
+	font-weight: 700;
+}
 /* body::before{
     content: ' ';
     background-image: url(assets/background-img.jpg);
